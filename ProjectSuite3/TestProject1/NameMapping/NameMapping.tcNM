@@ -79,6 +79,126 @@
 									</Child>
 								</Children>
 							</Child>
+							<Child Name="dlgNotepad" Key="{2A5EBC12-0E07-48BB-BBB5-AA955D300133}">
+								<Image FileName="840216935" Left="0" Top="0" Right="366" Bottom="141" />
+								<Properties>
+									<Property Name="WndClass">
+										<Value Value="#32770" />
+									</Property>
+									<Property Name="WndCaption">
+										<Value Value="Notepad" />
+									</Property>
+								</Properties>
+								<Children>
+									<Child Name="DirectUIHWND" Key="{915C205A-897E-4688-9A0B-1176BDC9F058}">
+										<Image FileName="840216935" Left="8" Top="31" Right="358" Bottom="133" />
+										<Properties>
+											<Property Name="WndClass">
+												<Value Value="DirectUIHWND" />
+											</Property>
+										</Properties>
+										<Children>
+											<Child Name="CtrlNotifySink" Key="{1460DA83-123D-453B-B1FB-DAEEB6EAB2B8}">
+												<Image FileName="840216935" Left="100" Top="101" Right="172" Bottom="124" />
+												<Properties>
+													<Property Name="WndClass">
+														<Value Value="CtrlNotifySink" />
+													</Property>
+													<Property Name="WndCaption">
+														<Value Value="" />
+													</Property>
+													<Property Name="Index">
+														<Value Value="7" Type="0" />
+													</Property>
+												</Properties>
+												<Children>
+													<Child Name="btnSave" Key="{81EBB27F-8143-4B8F-9A5B-4A052204FA52}">
+														<Image FileName="840216935" Left="100" Top="101" Right="172" Bottom="124" />
+														<TypeInfo Item0="{6C98CD12-87B7-4C7C-9A2C-496CC769A8D6}" />
+														<Properties>
+															<Property Name="WndClass">
+																<Value Value="Button" />
+															</Property>
+															<Property Name="WndCaption">
+																<Value Value="&amp;Save" />
+															</Property>
+														</Properties>
+													</Child>
+												</Children>
+											</Child>
+										</Children>
+									</Child>
+								</Children>
+							</Child>
+							<Child Name="dlgSaveAs" Key="{C8D7CCA8-9051-4B23-8D29-E9F2B69EFC6F}">
+								<Image FileName="1814270240" Left="0" Top="0" Right="683" Bottom="480" />
+								<Properties>
+									<Property Name="WndClass">
+										<Value Value="#32770" />
+									</Property>
+									<Property Name="WndCaption">
+										<Value Value="Save As" />
+									</Property>
+								</Properties>
+								<Children>
+									<Child Name="DUIViewWndClassName" Key="{7ACBE3C4-5049-4CE0-9D19-2ADA697059C6}">
+										<Image FileName="1814270240" Left="8" Top="73" Right="675" Bottom="420" />
+										<Properties>
+											<Property Name="WndClass">
+												<Value Value="DUIViewWndClassName" />
+											</Property>
+										</Properties>
+										<Children>
+											<Child Name="DirectUIHWND" Key="{4CD2271D-D134-4176-8C9A-6EFC0C0FB64D}">
+												<Image FileName="1814270240" Left="8" Top="73" Right="675" Bottom="420" />
+												<Properties>
+													<Property Name="WndClass">
+														<Value Value="DirectUIHWND" />
+													</Property>
+												</Properties>
+												<Children>
+													<Child Name="FloatNotifySink" Key="{CF04DB5A-63AE-4E4C-AE7C-9AE39EF40E30}">
+														<Image FileName="436420206" Left="133" Top="366" Right="670" Bottom="389" />
+														<Properties>
+															<Property Name="WndClass">
+																<Value Value="FloatNotifySink" />
+															</Property>
+															<Property Name="WndCaption">
+																<Value Value="" />
+															</Property>
+															<Property Name="Index">
+																<Value Value="1" Type="0" />
+															</Property>
+														</Properties>
+														<Children>
+															<Child Name="ComboBox" Key="{6960AB81-11FA-4D01-8DE4-D8FC7A3998B5}">
+																<Image FileName="436420206" Left="133" Top="366" Right="670" Bottom="389" />
+																<Properties>
+																	<Property Name="WndClass">
+																		<Value Value="ComboBox" />
+																	</Property>
+																</Properties>
+															</Child>
+														</Children>
+													</Child>
+												</Children>
+											</Child>
+										</Children>
+									</Child>
+									<Child Name="btnSave" Key="{E7FCE7F1-6EB0-4632-B2AF-0EC0ECB87523}">
+										<Image FileName="1196802252" Left="470" Top="434" Right="558" Bottom="460" />
+										<TypeInfo Item0="{6C98CD12-87B7-4C7C-9A2C-496CC769A8D6}" />
+										<Properties>
+											<Property Name="WndClass">
+												<Value Value="Button" />
+											</Property>
+											<Property Name="WndCaption">
+												<Value Value="&amp;Save" />
+											</Property>
+										</Properties>
+									</Child>
+								</Children>
+							</Child>
 						</Children>
 					</Child>
 				</Children>
@@ -96,6 +216,23 @@
 		<Child Name="notepad" Owner="{981FE045-3325-439C-A04B-EBE1BD9AC057}">
 			<Child Name="wndNotepad" Owner="{4B19E014-A340-4EE6-A166-FB02F369A656}">
 				<Child Name="Edit" Owner="{4BF30434-2F91-4669-A241-1AC409540337}" />
+			</Child>
+			<Child Name="dlgNotepad" Owner="{2A5EBC12-0E07-48BB-BBB5-AA955D300133}">
+				<Child Name="DirectUIHWND" Owner="{915C205A-897E-4688-9A0B-1176BDC9F058}">
+					<Child Name="CtrlNotifySink" Owner="{1460DA83-123D-453B-B1FB-DAEEB6EAB2B8}">
+						<Child Name="btnSave" Owner="{81EBB27F-8143-4B8F-9A5B-4A052204FA52}" />
+					</Child>
+				</Child>
+			</Child>
+			<Child Name="dlgSaveAs" Owner="{C8D7CCA8-9051-4B23-8D29-E9F2B69EFC6F}">
+				<Child Name="DUIViewWndClassName" Owner="{7ACBE3C4-5049-4CE0-9D19-2ADA697059C6}">
+					<Child Name="DirectUIHWND" Owner="{4CD2271D-D134-4176-8C9A-6EFC0C0FB64D}">
+						<Child Name="FloatNotifySink" Owner="{CF04DB5A-63AE-4E4C-AE7C-9AE39EF40E30}">
+							<Child Name="ComboBox" Owner="{6960AB81-11FA-4D01-8DE4-D8FC7A3998B5}" />
+						</Child>
+					</Child>
+				</Child>
+				<Child Name="btnSave" Owner="{E7FCE7F1-6EB0-4632-B2AF-0EC0ECB87523}" />
 			</Child>
 		</Child>
 	</LogicalNodes>

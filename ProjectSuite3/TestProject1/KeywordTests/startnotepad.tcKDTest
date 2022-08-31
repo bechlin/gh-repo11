@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Root signature="{B9D9273E-7266-43E0-BF02-97F168593604}" version="15.0">
+	<TestData Description="" Key="{6F6ED3B9-5F57-4C6B-B9F3-4276D7B4D5C8}" Type="{79147B28-EE20-4294-B773-1D3787FBF37B}">
+		<Data>
+			<Extenders>
+				<NodeBitmaps />
+			</Extenders>
+		</Data>
+		<Children>
+			<Operation Type="{66F32D5F-A5DB-420E-9CB4-3DB7CADE2692}">
+				<Data Description="Runs the &quot;notepad&quot; tested application." TestedApp="notepad">
+					<Parameters LangId="{7D0FC31C-B0A7-4F4F-B5AF-1F16370169CB}">
+						<Parameter Name="Count" DefVarType="3" DefValueType="1" DefValueValue="-1" VarType="3" ValueType="1" ValueValue="-1" />
+						<Parameter Name="IgnoreRunning" DefVarType="11" DefValueType="7" DefValueValue="False" VarType="11" ValueType="7" ValueValue="False" />
+						<Parameter Name="Timeout" DefVarType="3" DefValueType="1" DefValueValue="-1" VarType="3" ValueType="1" ValueValue="-1" />
+					</Parameters>
+				</Data>
+			</Operation>
+		</Children>
+	</TestData>
+	<Parameters Key="{1675F718-C283-406C-85E0-06A4BDBED3B6}" />
+</Root>

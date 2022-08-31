@@ -1,0 +1,102 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Root Signature="{5DCBAC3B-D39C-497C-9BE8-744CBADD37AA}" NameMappingVersion="7" SaveImages="0">
+	<Storages Current="0">
+		<Child Name="Default Configuration" />
+	</Storages>
+	<Nodes Name="NameMapping" Key="{BE401E45-B2D6-4FBA-931A-C2117D5C51AD}">
+		<Children>
+			<Child Name="Sys" Key="{00778A41-F40E-43A8-9F77-4E2E70F09A58}">
+				<Properties>
+					<Property Name="Name">
+						<Value Value="Sys" />
+					</Property>
+				</Properties>
+				<Children>
+					<Child Name="explorer" Key="{6D22EC99-5B8D-4B0B-925A-554A1C1DEE39}">
+						<Properties>
+							<Property Name="ProcessName">
+								<Value Value="explorer" />
+							</Property>
+						</Properties>
+						<Children>
+							<Child Name="wndShell_TrayWnd" Key="{2BD7748C-E231-461E-A850-8E40EE1D7E2F}">
+								<Image FileName="1774044391" Left="0" Top="0" Right="1366" Bottom="40" />
+								<Properties>
+									<Property Name="WndClass">
+										<Value Value="Shell_TrayWnd" />
+									</Property>
+								</Properties>
+								<Children>
+									<Child Name="TrayDummySearchControl" Key="{6956F75E-2144-4DCA-8133-1515136F0EF0}">
+										<Image FileName="1774044391" Left="48" Top="0" Right="392" Bottom="40" />
+										<Properties>
+											<Property Name="WndClass">
+												<Value Value="TrayDummySearchControl" />
+											</Property>
+										</Properties>
+										<Children>
+											<Child Name="btn" Key="{C295B7DB-8C12-4541-B032-012365DCCF25}">
+												<Image FileName="1774044391" Left="48" Top="0" Right="392" Bottom="40" />
+												<TypeInfo Item0="{6C98CD12-87B7-4C7C-9A2C-496CC769A8D6}" />
+												<Properties>
+													<Property Name="WndClass">
+														<Value Value="Button" />
+													</Property>
+													<Property Name="WndCaption">
+														<Value Value="Type here to search" />
+													</Property>
+												</Properties>
+											</Child>
+										</Children>
+									</Child>
+								</Children>
+							</Child>
+						</Children>
+					</Child>
+					<Child Name="notepad" Key="{981FE045-3325-439C-A04B-EBE1BD9AC057}">
+						<Properties>
+							<Property Name="ProcessName">
+								<Value Value="notepad" />
+							</Property>
+						</Properties>
+						<Children>
+							<Child Name="wndNotepad" Key="{4B19E014-A340-4EE6-A166-FB02F369A656}">
+								<Image FileName="1637584085" Left="0" Top="0" Right="1114" Bottom="593" />
+								<Properties>
+									<Property Name="WndClass">
+										<Value Value="Notepad" />
+									</Property>
+								</Properties>
+								<Children>
+									<Child Name="Edit" Key="{4BF30434-2F91-4669-A241-1AC409540337}">
+										<Image FileName="1637584085" Left="8" Top="51" Right="1106" Bottom="562" />
+										<TypeInfo Item0="{73453197-5EB7-4130-9D79-E694B2879D15}" />
+										<Properties>
+											<Property Name="WndClass">
+												<Value Value="Edit" />
+											</Property>
+										</Properties>
+									</Child>
+								</Children>
+							</Child>
+						</Children>
+					</Child>
+				</Children>
+			</Child>
+		</Children>
+	</Nodes>
+	<LogicalNodes Name="Aliases" Owner="{BE401E45-B2D6-4FBA-931A-C2117D5C51AD}">
+		<Child Name="explorer" Owner="{6D22EC99-5B8D-4B0B-925A-554A1C1DEE39}">
+			<Child Name="wndShell_TrayWnd" Owner="{2BD7748C-E231-461E-A850-8E40EE1D7E2F}">
+				<Child Name="TrayDummySearchControl" Owner="{6956F75E-2144-4DCA-8133-1515136F0EF0}">
+					<Child Name="btn" Owner="{C295B7DB-8C12-4541-B032-012365DCCF25}" />
+				</Child>
+			</Child>
+		</Child>
+		<Child Name="notepad" Owner="{981FE045-3325-439C-A04B-EBE1BD9AC057}">
+			<Child Name="wndNotepad" Owner="{4B19E014-A340-4EE6-A166-FB02F369A656}">
+				<Child Name="Edit" Owner="{4BF30434-2F91-4669-A241-1AC409540337}" />
+			</Child>
+		</Child>
+	</LogicalNodes>
+</Root>

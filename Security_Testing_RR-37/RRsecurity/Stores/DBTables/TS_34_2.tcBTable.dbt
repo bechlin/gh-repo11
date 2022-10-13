@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Root>
+	<Table Name="TS_34_2">
+		<Source ConnectionString="Provider=MSDASQL.1;Persist Security Info=False;User ID=fahad_ind;Data Source=RRmpi DB;Initial Catalog=revremit_qa_mpi_RR13" Login="fahad_ind" Password="08044E94A28CF2C1C97AC20B4A2F568E66065E44708E6718408B3AA86634DC60F1A5661FB214" Object="Query" DataObjectContent="select patient_account_number from claim_informations where facility_id = 200519 order by id desc limit 1" />
+		<Columns>
+			<Column CompareStyle="Default">patient_account_number</Column>
+		</Columns>
+		<Rows>
+			<Row>
+				<Cell Type="String">32333</Cell>
+			</Row>
+		</Rows>
+	</Table>
+</Root>

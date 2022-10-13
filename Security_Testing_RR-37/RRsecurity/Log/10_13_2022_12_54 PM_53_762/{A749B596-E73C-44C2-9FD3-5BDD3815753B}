@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE Nodes [
+
+<!ENTITY % NameValue "CDATA">
+<!ENTITY % PropType "(I|S|D|L|H|B)">
+<!ENTITY % VersionValue "CDATA">
+
+<!ELEMENT Prp (#PCDATA)>
+<!ELEMENT Node (Node|Prp)*>
+<!ELEMENT Nodes (Node)+>
+
+<!ATTLIST Nodes version CDATA "1">
+
+<!ATTLIST Node name CDATA #REQUIRED>
+
+<!ATTLIST Prp name CDATA #REQUIRED>
+<!ATTLIST Prp type CDATA #REQUIRED>
+<!ATTLIST Prp value CDATA #REQUIRED>
+]>
+<Nodes version="1">
+	<Node name="root">
+		<Node name="log data">
+			<Node name="row1">
+				<Prp name="name" type="S" value="TS_02_2 [Script\TS_02 - TS_02]"/>
+				<Prp name="status" type="I" value="0"/>
+				<Prp name="details" type="S" value="{A36CEB10-EDDC-4173-88CD-E528C3219779}"/>
+				<Prp name="end time" type="D" value="44847.5388321296"/>
+				<Prp name="ownerid" type="I" value="-1"/>
+				<Prp name="extended message" type="S" value=""/>
+				<Prp name="testdata item" type="B" value="0"/>
+				<Prp name="index" type="I" value="1"/>
+				<Prp name="start time" type="D" value="44847.5384671412"/>
+			</Node>
+			<Node name="row2">
+				<Prp name="name" type="S" value="TS_03_2 [Script\TS_03 - TS_03]"/>
+				<Prp name="status" type="I" value="0"/>
+				<Prp name="details" type="S" value="{86DEA5AB-0EFF-4425-91C3-0B8D90411147}"/>
+				<Prp name="end time" type="D" value="44847.5392359491"/>
+				<Prp name="ownerid" type="I" value="-1"/>
+				<Prp name="extended message" type="S" value=""/>
+				<Prp name="testdata item" type="B" value="0"/>
+				<Prp name="index" type="I" value="2"/>
+				<Prp name="start time" type="D" value="44847.5388322454"/>
+			</Node>
+			<Node name="row4">
+				<Prp name="name" type="S" value="The execution process was interrupted."/>
+				<Prp name="status" type="I" value="2"/>
+				<Prp name="details" type="S" value=""/>
+				<Prp name="end time" type="D" value="44847.539586794"/>
+				<Prp name="ownerid" type="I" value="-1"/>
+				<Prp name="extended message" type="S" value=""/>
+				<Prp name="testdata item" type="B" value="0"/>
+				<Prp name="index" type="I" value="4"/>
+				<Prp name="start time" type="D" value="44847.539586794"/>
+			</Node>
+			<Node name="row0">
+				<Prp name="name" type="S" value="TS_01_2 [Script\TS_01 - TS_01]"/>
+				<Prp name="status" type="I" value="0"/>
+				<Prp name="details" type="S" value="{B539B825-423B-4F67-AF53-0AB97B2283E7}"/>
+				<Prp name="end time" type="D" value="44847.5384670255"/>
+				<Prp name="ownerid" type="I" value="-1"/>
+				<Prp name="extended message" type="S" value=""/>
+				<Prp name="testdata item" type="B" value="0"/>
+				<Prp name="index" type="I" value="0"/>
+				<Prp name="start time" type="D" value="44847.5381325463"/>
+			</Node>
+			<Node name="row3">
+				<Prp name="name" type="S" value="TS_04_2 [Script\TS_04 - TS_04]"/>
+				<Prp name="status" type="I" value="2"/>
+				<Prp name="details" type="S" value="{30B96B29-76AD-458B-B301-B4819D1719E6}"/>
+				<Prp name="end time" type="D" value="44847.539586794"/>
+				<Prp name="ownerid" type="I" value="-1"/>
+				<Prp name="extended message" type="S" value=""/>
+				<Prp name="testdata item" type="B" value="0"/>
+				<Prp name="index" type="I" value="3"/>
+				<Prp name="start time" type="D" value="44847.5392359491"/>
+			</Node>
+		</Node>
+	</Node>
+</Nodes>

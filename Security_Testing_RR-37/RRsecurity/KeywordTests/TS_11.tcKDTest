@@ -1,0 +1,367 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Root signature="{B9D9273E-7266-43E0-BF02-97F168593604}" version="15.0">
+	<TestData Description="" Key="{12CACF3C-EF30-4EE3-A241-7F16DB829C4D}" Type="{79147B28-EE20-4294-B773-1D3787FBF37B}">
+		<Data>
+			<Extenders>
+				<NodeBitmaps>
+					<Bitmap Name="Aliases.browser.pageEdit" Data="61717A697000000001000000360900007801CD956B48536118C77736A58B73136D5A4DCD3243B28BB9B499E1659AA55DC82C4CC9969ACDC23082104B453F4868815F424A09EA43D952842E42A95D3F2826186A65198969E99C97BC3577D1FDDBC95EDBE5ACB40FD181E73CE7393BFC7EEFFBBCEFCE91EC0958C4FA710418CEDE8658FA33289687E1CA70FCFC7DA6F83FCE1445B1799E7C91EF565FC9B6A3E9E95EB29C5CF7D8D4E37C9FCDFE149BCDFEDB51DA2CB4E17A1E587D3EB44CD2B3B32A1A79F5F950688098363D76B5CC4478DDE72F5E69B9B9365C1E6F3E1EC7754E61844BB349BC5434E1A6E217DFD8B344BC7DFB5C1CCB829727ECA888D211A6714EAE3986099D16C9ED968EE866DD94EB5EA9F4770EA7F54E126B6CE2297F2747C328667B44E64067DA21088C8C6472D0FD66EA09E192BCEFEE7E28554AE4765ACE8176443CEEEDB3E1F2F9E60ECF58CF7384619E536B6578D0598D8EAF1FD031DC81AED14FF8AC06F6B5323BD69CCCCF37E1532C2AB434EC933997AE0B9B8AA0558D40F3A414AAD214A8AE2641537319FA6F23B8DEC7CCA7E740B1391CE2B0F7E06D6462CB6A4F40AB1E87AA2C1513051293F8567218EA8951A430AC35DD2787F55BB610BE30CC55CAC47FD2FD14DAFA7213AEB147537705954AE639B81F94C9087F65CCAA4C737EC6D3D3D0EBF5982CCFB4CA575D4B43F318F35E32FCCF73ACF1A3AA76A17DA81D8383D398ACC8B6CEBF710A4D56F6AAD7F1EC6CC217860A8F188FFF62D32534366A505C3C0E5DCB43AB7C6DC36DAB6BECB63FE518E173DDB83E841F732F16FDE3834848184278F800FA7A755057E55B38266F9DC5B05A8BB8D7CCFDE779FB6E227C3A0797847EA01DB7DFCB2197AB1018A8FC11F1F143E8E9D641F7F619D4F70BA1BE7B01BAD61AE8A7A720EFD7A3A0CB32D29F7FEC64195EBCC6FC15BB3D32921EA54039A44664E4C02C9FF684840C202F6F0C95952A54574FFE311213B3667B4F1C6C5BF6823B2F2ADE14158D99B0C93CE69AFDFD3B866D6D052E846B9CBDBD3707040529A6E6CAB27C4E31EDE8181D63CC34BF76768E4F128BFBE6ED108B15D32E2ED234731E53CDE7874488442D3D96E39B5973F3FB22515BAF8343781413CBDA3D0EC78E2B146664F9F9357799F3482D12BDEA76753D93CDE1D8CFEBFB68EAA4A8C58BD76E1008E2A442E1A94C3A048243523B3B9F8D2CC326347DF6DF57DF01C9FAC569" />
+					<Bitmap Name="Aliases.chrome" Data="61717A6970000000010000003609000078018D940D5093751CC7F76CE36D300643144561F236621B6C8093F13604415CBE549767D75557775D99DDA5A9D7792A9A962FF9968628A081966988669E9498F8829A659E67995DBEA5020384DA7855718CFFB7DF7F30E37CBB9EBBCFBEBFE779B6EFE7F93FDBB3ECC9461F916B33D26B2C1132802052D144DBC0F9FE9DFFF92A16798A3D4572A98F1024F51582057FFF60919F5229F2F6F31389A5D2FFD9F2C8DBA432214811E995153E51F1B16E46704DCAB2D0D68CB5A3D8C8AFCB9C1E15F54DD29555D592E9F33E10E25253451EDEDE8F143CE5404094D738DD3B438FA4AD18D5665E1FCEB236A890F96918337F1ACE928B27B280C356C88EF5C2BBC6C1BC2AADB73D571F3A22A893F96D7BEA2688459211E9F27733D784DF336F50B1711B47E3019FF5CF59856A44ECFB12F2A33DF0230747461E9F8ABA46B136355D2408C29324C109BE2FA6AF086FCD2E8C00276BE368E69E1FEC7F160153691E86FCD008FFA30EE64FFD729EC79DF02DFBF592943B1EB30DD1CA2667AC52B5E61445613C91B3299211C8A6A46E17399BE878FF39E8BF9A8BC0630EA63CD18B402280E6C0E3E4AAAC6B94C48E19335821958903D396A96EE46E8E46EE168227415D2CB7289A4D2B4FC192EF67B05DE7B760E7B922CCDEFF12A66E4B44D4C1C31842DD83519247BEE2DB83221FB9DCE51044425876C0AC9CC2A87B79C531E0E46EA124269668D88A23EFE37AF305F4365CC4FDCBB5705C390967CB355C6A3A87778E1563E4892E0CABED7531947228F982BE696896A8935C6B907809F2C4F74656E797C68233A1444DC462E2D638949D5D876E7B1DBA76CD867D793A6C0509B02DD6C3BE3A07DD0796A2C5D680D77EED60A1277B1172C2C186533F27E4784F9FEF2BF31788A41E1EB2A11ED199CB23AEE56F7D069C09A56AC6F3ED3D53D1DA518FCE1D33605BF00CFE1980CF6EBA2AE7E35CBB13DA9F9C18498ED05A07E3C9095A5375883F830A95B7317793BAD3F2791CDC503F5BB96F2BEEFF5E0DFB87C9B02DD4FCC7828199B26D4D1EDDABEB78E9A21361271D2CFC542FC24FD14C0CAFB876432C0F0C54C6C8CC966D9ABE49E55A58CA34ECD9322D723E7A1995075B70E7BB4F60A77B625FA47B3C4BC7C071F53436D4F521E2B4132A7244FCE8C4E8D3BD50D5F638C58AE060A55A66A64E36A95C8749DB75B09498A0CD3EC3F61EE8C29DAA95B02F36503777F4D3E6F20DCC4B8DF47D9F42B1B50FD1D41B450E77469E7230DE1F10E1936229D5744FD9118FC9DBF5C89C538038D365B66ABD0D3D672BD0BE742CDA0AF4047928ED0F528F8ED5E3E1B45EC2AC2B7D509F76B09801D4E48A3CD46213FB0705F98678AAC7AF8DFD6BCA1709CC52688121FF2768C6DE64D3DF6846ABB50D9D25AFA06D71D263B9B3AF007FB6F7C074D6C134679C7041DF751CCD618535C7057A063CFDC4CAB48551279EDB698079CE72E852EBA14DB9C592CCF5D8BDB7133DB6167497BF85F68F52692D46D77A3A3ECE4077D99BE8ECB0BBAE3DE16727E2A9573788E0D7171408F4FBE4CF58EC0B214B2C85F98EC4DC8BD45FC7E2D31A5C1E539E153B2B3AF177633BEEFF5289BBDFAFC1BDEAF570FC5183DB771DD8DCC060FCC50903F5EB07A1ADB175C84DF916F77F9DEF30CF685D5EF9657D8615D4CDF4E9562470C89368B662FA1B2D58B7A91DFBABBAB1875856D18D69DBBA602CEA84A1B013FA8D1D4C4F9940C9899C575D2BF1532806FF072982263C1F9F76A3877A9921B311FA8C4672908B9C0F7CE90D8366D7B5F0EB19A0DE959A94AB77E50139930677BBE790B0394BE2D3AE771BCC4D709149492E032579987EC0CBDDFDF4AF93AF99AF37CE78A14519F2EA4C77DFC329167BCB42547397E8336FF52465352329EB36EF66E4A23535B1447333F7F199EE1B77F299FB1BE93771B15511647951102492877B1FDE570E9BF6AAD674BE3ED1DCE0481E771B491C72F53BB9D7ED6E64091937EFC5261DFDCD57913AEEE19EA7ED7B780D1F151AB168758C7E6F8DCE74EEA621F3D6DDC4AC669698D5D4A74FBFD2A6319EB91A1DBFFBF09011AFCF947A0E0B7D5AD793CE0982582291FA2BBC6591B1BEFE49263F85C9ECA74831CBE4F1C99E3EAA687EEE499F751FFF17A590F726" />
+					<Bitmap Name="Aliases.chrome.pageRevRemit3" Data="61717A697000000001000000360900007801CD956B48536118C77736A58B73136D5A4DCD3243B28BB9B499E1659AA55DC82C4CC9969ACDC23082104B453F4868815F424A09EA43D952842E42A95D3F2826186A65198969E99C97BC3577D1FDDBC95EDBE5ACB40FD181E73CE7393BFC7EEFFBBCEFCE91EC0958C4FA710418CEDE8658FA33289687E1CA70FCFC7DA6F83FCE1445B1799E7C91EF565FC9B6A3E9E95EB29C5CF7D8D4E37C9FCDFE149BCDFEDB51DA2CB4E17A1E587D3EB44CD2B3B32A1A79F5F950688098363D76B5CC4478DDE72F5E69B9B9365C1E6F3E1EC7754E61844BB349BC5434E1A6E217DFD8B344BC7DFB5C1CCB829727ECA888D211A6714EAE3986099D16C9ED968EE866DD94EB5EA9F4770EA7F54E126B6CE2297F2747C328667B44E64067DA21088C8C6472D0FD66EA09E192BCEFEE7E28554AE4765ACE8176443CEEEDB3E1F2F9E60ECF58CF7384619E536B6578D0598D8EAF1FD031DC81AED14FF8AC06F6B5323BD69CCCCF37E1532C2AB434EC933997AE0B9B8AA0558D40F3A414AAD214A8AE2641537319FA6F23B8DEC7CCA7E740B1391CE2B0F7E06D6462CB6A4F40AB1E87AA2C1513051293F8567218EA8951A430AC35DD2787F55BB610BE30CC55CAC47FD2FD14DAFA7213AEB147537705954AE639B81F94C9087F65CCAA4C737EC6D3D3D0EBF5982CCFB4CA575D4B43F318F35E32FCCF73ACF1A3AA76A17DA81D8383D398ACC8B6CEBF710A4D56F6AAD7F1EC6CC217860A8F188FFF62D32534366A505C3C0E5DCB43AB7C6DC36DAB6BECB63FE518E173DDB83E841F732F16FDE3834848184278F800FA7A755057E55B38266F9DC5B05A8BB8D7CCFDE779FB6E227C3A0797847EA01DB7DFCB2197AB1018A8FC11F1F143E8E9D641F7F619D4F70BA1BE7B01BAD61AE8A7A720EFD7A3A0CB32D29F7FEC64195EBCC6FC15BB3D32921EA54039A44664E4C02C9FF684840C202F6F0C95952A54574FFE311213B3667B4F1C6C5BF6823B2F2ADE14158D99B0C93CE69AFDFD3B866D6D052E846B9CBDBD3707040529A6E6CAB27C4E31EDE8181D63CC34BF76768E4F128BFBE6ED108B15D32E2ED234731E53CDE7874488442D3D96E39B5973F3FB22515BAF8343781413CBDA3D0EC78E2B146664F9F9357799F3482D12BDEA76753D93CDE1D8CFEBFB68EAA4A8C58BD76E1008E2A442E1A94C3A048243523B3B9F8D2CC326347DF6DF57DF01C9FAC569" />
+					<Bitmap Name="Aliases.chrome.pageRevRemit3.formNewUser" Data="61717A697000000001000000360900007801CD956B48536118C77736A58B73136D5A4DCD3243B28BB9B499E1659AA55DC82C4CC9969ACDC23082104B453F4868815F424A09EA43D952842E42A95D3F2826186A65198969E99C97BC3577D1FDDBC95EDBE5ACB40FD181E73CE7393BFC7EEFFBBCEFCE91EC0958C4FA710418CEDE8658FA33289687E1CA70FCFC7DA6F83FCE1445B1799E7C91EF565FC9B6A3E9E95EB29C5CF7D8D4E37C9FCDFE149BCDFEDB51DA2CB4E17A1E587D3EB44CD2B3B32A1A79F5F950688098363D76B5CC4478DDE72F5E69B9B9365C1E6F3E1EC7754E61844BB349BC5434E1A6E217DFD8B344BC7DFB5C1CCB829727ECA888D211A6714EAE3986099D16C9ED968EE866DD94EB5EA9F4770EA7F54E126B6CE2297F2747C328667B44E64067DA21088C8C6472D0FD66EA09E192BCEFEE7E28554AE4765ACE8176443CEEEDB3E1F2F9E60ECF58CF7384619E536B6578D0598D8EAF1FD031DC81AED14FF8AC06F6B5323BD69CCCCF37E1532C2AB434EC933997AE0B9B8AA0558D40F3A414AAD214A8AE2641537319FA6F23B8DEC7CCA7E740B1391CE2B0F7E06D6462CB6A4F40AB1E87AA2C1513051293F8567218EA8951A430AC35DD2787F55BB610BE30CC55CAC47FD2FD14DAFA7213AEB147537705954AE639B81F94C9087F65CCAA4C737EC6D3D3D0EBF5982CCFB4CA575D4B43F318F35E32FCCF73ACF1A3AA76A17DA81D8383D398ACC8B6CEBF710A4D56F6AAD7F1EC6CC217860A8F188FFF62D32534366A505C3C0E5DCB43AB7C6DC36DAB6BECB63FE518E173DDB83E841F732F16FDE3834848184278F800FA7A755057E55B38266F9DC5B05A8BB8D7CCFDE779FB6E227C3A0797847EA01DB7DFCB2197AB1018A8FC11F1F143E8E9D641F7F619D4F70BA1BE7B01BAD61AE8A7A720EFD7A3A0CB32D29F7FEC64195EBCC6FC15BB3D32921EA54039A44664E4C02C9FF684840C202F6F0C95952A54574FFE311213B3667B4F1C6C5BF6823B2F2ADE14158D99B0C93CE69AFDFD3B866D6D052E846B9CBDBD3707040529A6E6CAB27C4E31EDE8181D63CC34BF76768E4F128BFBE6ED108B15D32E2ED234731E53CDE7874488442D3D96E39B5973F3FB22515BAF8343781413CBDA3D0EC78E2B146664F9F9357799F3482D12BDEA76753D93CDE1D8CFEBFB68EAA4A8C58BD76E1008E2A442E1A94C3A048243523B3B9F8D2CC326347DF6DF57DF01C9FAC569" />
+				</NodeBitmaps>
+			</Extenders>
+		</Data>
+		<Children>
+			<Operation Type="{BFB3C418-1303-46B3-9B24-3624AB5EB529}">
+				<Data Description="Posts an information message to the test log." MessageType="0">
+					<Parameters LangId="{7D0FC31C-B0A7-4F4F-B5AF-1F16370169CB}">
+						<Parameter Name="MessageText" DefVarType="12" VarType="8" ValueType="6" ValueValue="11. Check whether user is able to change password only once with in a time period using the link sent via mail" />
+						<Parameter Name="Details" DefVarType="12" VarType="8" ValueType="6" ValueValue="" />
+						<Parameter Name="Priority" DefVarType="12" DefValueType="1" DefValueValue="300" VarType="3" ValueType="1" ValueValue="300">
+							<Values IsEnum="True">
+								<Value Type="1" Value="100" Text="pmLowest" />
+								<Value Type="1" Value="200" Text="pmLower" />
+								<Value Type="1" Value="300" Text="pmNormal" />
+								<Value Type="1" Value="400" Text="pmHigher" />
+								<Value Type="1" Value="500" Text="pmHighest" />
+							</Values>
+						</Parameter>
+						<Parameter Name="Attrib" DefVarType="12" VarType="12" ValueType="0" ValueValue="0" />
+						<Parameter Name="Picture" DefVarType="12" VarType="12" ValueType="0" ValueValue="0" />
+						<Parameter Name="FolderId" DefVarType="3" DefValueType="1" DefValueValue="-1" VarType="3" ValueType="1" ValueValue="-1" />
+					</Parameters>
+				</Data>
+			</Operation>
+			<Operation Type="{23822434-2251-41A7-8F29-F49A1E46114C}">
+				<Data Description="Retrieves the Excel cell value and saves it as Last Operation Result.">
+					<Parameters LangId="{7D0FC31C-B0A7-4F4F-B5AF-1F16370169CB}">
+						<Parameter Name="FileName" DefVarType="0" ParamType="{A6C17AFB-EA54-4E23-8160-6C3EF6C97F0F}" FileName="C:\Security_Testing_RR-37\Resources\Security_Testing_Input.xls" Filter="All Excel files|*.xls;*.xlsx|All files|*.*" />
+						<Parameter Name="Cell" DefVarType="0" VarType="8" ValueType="6" ValueValue="TS_10!B4" />
+					</Parameters>
+				</Data>
+			</Operation>
+			<Operation Type="{98EACF50-FA7B-4595-8EDC-4C0B21157A52}">
+				<Data Description="Launches the specified browser and opens the specified URL in it." BrowserName="chrome">
+					<Parameters LangId="{7D0FC31C-B0A7-4F4F-B5AF-1F16370169CB}">
+						<Parameter Name="URL" DefVarType="8" DefValueType="6" DefValueValue="" ParamType="{D44DB91E-FD74-4F67-BE3D-951A1238A9AD}" />
+						<Parameter Name="PageLoadWaitTime" DefVarType="3" DefValueType="1" DefValueValue="-1" VarType="3" ValueType="1" ValueValue="-1" />
+					</Parameters>
+				</Data>
+			</Operation>
+			<Operation Type="{575D0372-CCEB-4D0F-AFE8-D2004F108913}">
+				<Data Description="Maximizes the specified Window object." Action="Maximize">
+					<ObjectSyntax LangId="{7D0FC31C-B0A7-4F4F-B5AF-1F16370169CB}" Code="Aliases.browser.BrowserWindow" />
+				</Data>
+			</Operation>
+			<Operation Type="{575D0372-CCEB-4D0F-AFE8-D2004F108913}">
+				<Data Description="Clicks the &apos;%n&apos; control." Action="Click">
+					<Parameters LangId="{7D0FC31C-B0A7-4F4F-B5AF-1F16370169CB}">
+						<Parameter Name="ClientX" DefVarType="3" DefValueType="1" DefValueValue="-1" VarType="3" ValueType="1" ValueValue="-1" />
+						<Parameter Name="ClientY" DefVarType="3" DefValueType="1" DefValueValue="-1" VarType="3" ValueType="1" ValueValue="-1" />
+						<Parameter Name="Shift" DefVarType="12" DefValueType="1" DefValueValue="0" VarType="3" ValueType="1" ValueValue="0">
+							<Values IsEnum="True">
+								<Value Type="1" Value="0" Text="skNoShift" />
+								<Value Type="1" Value="8192" Text="skShift" />
+								<Value Type="1" Value="32768" Text="skAlt" />
+								<Value Type="1" Value="16384" Text="skCtrl" />
+							</Values>
+						</Parameter>
+					</Parameters>
+					<ObjectSyntax LangId="{7D0FC31C-B0A7-4F4F-B5AF-1F16370169CB}" Code="Aliases.browser.pageEdit.formNewUser.passwordboxUserPassword" />
+				</Data>
+			</Operation>
+			<Operation Type="{23822434-2251-41A7-8F29-F49A1E46114C}">
+				<Data Description="Retrieves the Excel cell value and saves it as Last Operation Result.">
+					<Parameters LangId="{7D0FC31C-B0A7-4F4F-B5AF-1F16370169CB}">
+						<Parameter Name="FileName" DefVarType="0" ParamType="{A6C17AFB-EA54-4E23-8160-6C3EF6C97F0F}" FileName="C:\Security_Testing_RR-37\Resources\Security_Testing_Input.xls" Filter="All Excel files|*.xls;*.xlsx|All files|*.*" />
+						<Parameter Name="Cell" DefVarType="0" VarType="8" ValueType="6" ValueValue="TS_10!C4" />
+					</Parameters>
+				</Data>
+			</Operation>
+			<Operation Type="{575D0372-CCEB-4D0F-AFE8-D2004F108913}">
+				<Data Description="Sets the text %p1 in the &apos;%n&apos; text editor." Action="SetText">
+					<Parameters LangId="{7D0FC31C-B0A7-4F4F-B5AF-1F16370169CB}">
+						<Parameter Name="Text" DefVarType="8" ParamType="{D44DB91E-FD74-4F67-BE3D-951A1238A9AD}" />
+					</Parameters>
+					<ObjectSyntax LangId="{7D0FC31C-B0A7-4F4F-B5AF-1F16370169CB}" Code="Aliases.browser.pageEdit.formNewUser.passwordboxUserPassword" />
+				</Data>
+			</Operation>
+			<Operation Type="{575D0372-CCEB-4D0F-AFE8-D2004F108913}">
+				<Data Description="Clicks the &apos;%n&apos; control." Action="Click">
+					<Parameters LangId="{7D0FC31C-B0A7-4F4F-B5AF-1F16370169CB}">
+						<Parameter Name="ClientX" DefVarType="3" DefValueType="1" DefValueValue="-1" VarType="3" ValueType="1" ValueValue="-1" />
+						<Parameter Name="ClientY" DefVarType="3" DefValueType="1" DefValueValue="-1" VarType="3" ValueType="1" ValueValue="-1" />
+						<Parameter Name="Shift" DefVarType="12" DefValueType="1" DefValueValue="0" VarType="3" ValueType="1" ValueValue="0">
+							<Values IsEnum="True">
+								<Value Type="1" Value="0" Text="skNoShift" />
+								<Value Type="1" Value="8192" Text="skShift" />
+								<Value Type="1" Value="32768" Text="skAlt" />
+								<Value Type="1" Value="16384" Text="skCtrl" />
+							</Values>
+						</Parameter>
+					</Parameters>
+					<ObjectSyntax LangId="{7D0FC31C-B0A7-4F4F-B5AF-1F16370169CB}" Code="Aliases.browser.pageEdit.formNewUser.passwordboxConfirmNewPassword" />
+				</Data>
+			</Operation>
+			<Operation Type="{23822434-2251-41A7-8F29-F49A1E46114C}">
+				<Data Description="Retrieves the Excel cell value and saves it as Last Operation Result.">
+					<Parameters LangId="{7D0FC31C-B0A7-4F4F-B5AF-1F16370169CB}">
+						<Parameter Name="FileName" DefVarType="0" ParamType="{A6C17AFB-EA54-4E23-8160-6C3EF6C97F0F}" FileName="C:\Security_Testing_RR-37\Resources\Security_Testing_Input.xls" Filter="All Excel files|*.xls;*.xlsx|All files|*.*" />
+						<Parameter Name="Cell" DefVarType="0" VarType="8" ValueType="6" ValueValue="TS_10!D4" />
+					</Parameters>
+				</Data>
+			</Operation>
+			<Operation Type="{575D0372-CCEB-4D0F-AFE8-D2004F108913}">
+				<Data Description="Sets the text %p1 in the &apos;%n&apos; text editor." Action="SetText">
+					<Parameters LangId="{7D0FC31C-B0A7-4F4F-B5AF-1F16370169CB}">
+						<Parameter Name="Text" DefVarType="8" ParamType="{D44DB91E-FD74-4F67-BE3D-951A1238A9AD}" />
+					</Parameters>
+					<ObjectSyntax LangId="{7D0FC31C-B0A7-4F4F-B5AF-1F16370169CB}" Code="Aliases.browser.pageEdit.formNewUser.passwordboxConfirmNewPassword" />
+				</Data>
+			</Operation>
+			<Operation Type="{575D0372-CCEB-4D0F-AFE8-D2004F108913}">
+				<Data Description="Clicks the &apos;%n&apos; button." Action="ClickButton">
+					<ObjectSyntax LangId="{7D0FC31C-B0A7-4F4F-B5AF-1F16370169CB}" Code="Aliases.browser.pageEdit.formNewUser.submitbuttonLogin" />
+				</Data>
+			</Operation>
+			<Operation Type="{575D0372-CCEB-4D0F-AFE8-D2004F108913}">
+				<Data Description="Waits until the browser loads the page and is ready to accept user input." Action="Wait">
+					<Parameters LangId="{7D0FC31C-B0A7-4F4F-B5AF-1F16370169CB}">
+						<Parameter Name="WaitTime" DefVarType="3" DefValueType="1" DefValueValue="-1" VarType="3" ValueType="1" ValueValue="-1" />
+					</Parameters>
+					<ObjectSyntax LangId="{7D0FC31C-B0A7-4F4F-B5AF-1F16370169CB}" Code="Aliases.browser.pageRevRemit" />
+				</Data>
+			</Operation>
+			<Operation Type="{575D0372-CCEB-4D0F-AFE8-D2004F108913}">
+				<Data Description="Closes the &apos;%n&apos; window." Action="Close">
+					<Parameters LangId="{7D0FC31C-B0A7-4F4F-B5AF-1F16370169CB}">
+						<Parameter Name="WaitTimeout" DefVarType="3" DefValueType="1" DefValueValue="2000" VarType="3" ValueType="1" ValueValue="2000" />
+					</Parameters>
+					<ObjectSyntax LangId="{7D0FC31C-B0A7-4F4F-B5AF-1F16370169CB}" Code="Aliases.browser.wndChrome_WidgetWin_1" />
+				</Data>
+			</Operation>
+			<Operation Type="{575D0372-CCEB-4D0F-AFE8-D2004F108913}">
+				<Data Description="Clicks the &apos;%n&apos; control." Action="Click">
+					<Parameters LangId="{7D0FC31C-B0A7-4F4F-B5AF-1F16370169CB}">
+						<Parameter Name="ClientX" DefVarType="3" DefValueType="1" DefValueValue="-1" VarType="3" ValueType="1" ValueValue="-1" />
+						<Parameter Name="ClientY" DefVarType="3" DefValueType="1" DefValueValue="-1" VarType="3" ValueType="1" ValueValue="-1" />
+						<Parameter Name="Shift" DefVarType="12" DefValueType="1" DefValueValue="0" VarType="3" ValueType="1" ValueValue="0">
+							<Values IsEnum="True">
+								<Value Type="1" Value="0" Text="skNoShift" />
+								<Value Type="1" Value="8192" Text="skShift" />
+								<Value Type="1" Value="32768" Text="skAlt" />
+								<Value Type="1" Value="16384" Text="skCtrl" />
+							</Values>
+						</Parameter>
+					</Parameters>
+					<ObjectSyntax LangId="{7D0FC31C-B0A7-4F4F-B5AF-1F16370169CB}" Code="Aliases.browser.pageEdit.textboxAns1" />
+				</Data>
+			</Operation>
+			<Operation Type="{23822434-2251-41A7-8F29-F49A1E46114C}">
+				<Data Description="Retrieves the Excel cell value and saves it as Last Operation Result.">
+					<Parameters LangId="{7D0FC31C-B0A7-4F4F-B5AF-1F16370169CB}">
+						<Parameter Name="FileName" DefVarType="0" ParamType="{A6C17AFB-EA54-4E23-8160-6C3EF6C97F0F}" FileName="C:\Security_Testing_RR-37\Resources\Security_Testing_Input.xls" Filter="All Excel files|*.xls;*.xlsx|All files|*.*" />
+						<Parameter Name="Cell" DefVarType="0" VarType="8" ValueType="6" ValueValue="TS_10!E4" />
+					</Parameters>
+				</Data>
+			</Operation>
+			<Operation Type="{575D0372-CCEB-4D0F-AFE8-D2004F108913}">
+				<Data Description="Sets the text %p1 in the &apos;%n&apos; text editor." Action="SetText">
+					<Parameters LangId="{7D0FC31C-B0A7-4F4F-B5AF-1F16370169CB}">
+						<Parameter Name="Text" DefVarType="8" ParamType="{D44DB91E-FD74-4F67-BE3D-951A1238A9AD}" />
+					</Parameters>
+					<ObjectSyntax LangId="{7D0FC31C-B0A7-4F4F-B5AF-1F16370169CB}" Code="Aliases.browser.pageEdit.textboxAns1" />
+				</Data>
+			</Operation>
+			<Operation Type="{575D0372-CCEB-4D0F-AFE8-D2004F108913}">
+				<Data Description="Clicks the &apos;%n&apos; control." Action="Click">
+					<Parameters LangId="{7D0FC31C-B0A7-4F4F-B5AF-1F16370169CB}">
+						<Parameter Name="ClientX" DefVarType="3" DefValueType="1" DefValueValue="-1" VarType="3" ValueType="1" ValueValue="-1" />
+						<Parameter Name="ClientY" DefVarType="3" DefValueType="1" DefValueValue="-1" VarType="3" ValueType="1" ValueValue="-1" />
+						<Parameter Name="Shift" DefVarType="12" DefValueType="1" DefValueValue="0" VarType="3" ValueType="1" ValueValue="0">
+							<Values IsEnum="True">
+								<Value Type="1" Value="0" Text="skNoShift" />
+								<Value Type="1" Value="8192" Text="skShift" />
+								<Value Type="1" Value="32768" Text="skAlt" />
+								<Value Type="1" Value="16384" Text="skCtrl" />
+							</Values>
+						</Parameter>
+					</Parameters>
+					<ObjectSyntax LangId="{7D0FC31C-B0A7-4F4F-B5AF-1F16370169CB}" Code="Aliases.browser.pageEdit.textboxAns2" />
+				</Data>
+			</Operation>
+			<Operation Type="{23822434-2251-41A7-8F29-F49A1E46114C}">
+				<Data Description="Retrieves the Excel cell value and saves it as Last Operation Result.">
+					<Parameters LangId="{7D0FC31C-B0A7-4F4F-B5AF-1F16370169CB}">
+						<Parameter Name="FileName" DefVarType="0" ParamType="{A6C17AFB-EA54-4E23-8160-6C3EF6C97F0F}" FileName="C:\Security_Testing_RR-37\Resources\Security_Testing_Input.xls" Filter="All Excel files|*.xls;*.xlsx|All files|*.*" />
+						<Parameter Name="Cell" DefVarType="0" VarType="8" ValueType="6" ValueValue="TS_10!F4" />
+					</Parameters>
+				</Data>
+			</Operation>
+			<Operation Type="{575D0372-CCEB-4D0F-AFE8-D2004F108913}">
+				<Data Description="Sets the text %p1 in the &apos;%n&apos; text editor." Action="SetText">
+					<Parameters LangId="{7D0FC31C-B0A7-4F4F-B5AF-1F16370169CB}">
+						<Parameter Name="Text" DefVarType="8" ParamType="{D44DB91E-FD74-4F67-BE3D-951A1238A9AD}" />
+					</Parameters>
+					<ObjectSyntax LangId="{7D0FC31C-B0A7-4F4F-B5AF-1F16370169CB}" Code="Aliases.browser.pageEdit.textboxAns2" />
+				</Data>
+			</Operation>
+			<Operation Type="{575D0372-CCEB-4D0F-AFE8-D2004F108913}">
+				<Data Description="Clicks the &apos;%n&apos; control." Action="Click">
+					<Parameters LangId="{7D0FC31C-B0A7-4F4F-B5AF-1F16370169CB}">
+						<Parameter Name="ClientX" DefVarType="3" DefValueType="1" DefValueValue="-1" VarType="3" ValueType="1" ValueValue="-1" />
+						<Parameter Name="ClientY" DefVarType="3" DefValueType="1" DefValueValue="-1" VarType="3" ValueType="1" ValueValue="-1" />
+						<Parameter Name="Shift" DefVarType="12" DefValueType="1" DefValueValue="0" VarType="3" ValueType="1" ValueValue="0">
+							<Values IsEnum="True">
+								<Value Type="1" Value="0" Text="skNoShift" />
+								<Value Type="1" Value="8192" Text="skShift" />
+								<Value Type="1" Value="32768" Text="skAlt" />
+								<Value Type="1" Value="16384" Text="skCtrl" />
+							</Values>
+						</Parameter>
+					</Parameters>
+					<ObjectSyntax LangId="{7D0FC31C-B0A7-4F4F-B5AF-1F16370169CB}" Code="Aliases.browser.pageEdit.textboxAns3" />
+				</Data>
+			</Operation>
+			<Operation Type="{23822434-2251-41A7-8F29-F49A1E46114C}">
+				<Data Description="Retrieves the Excel cell value and saves it as Last Operation Result.">
+					<Parameters LangId="{7D0FC31C-B0A7-4F4F-B5AF-1F16370169CB}">
+						<Parameter Name="FileName" DefVarType="0" ParamType="{A6C17AFB-EA54-4E23-8160-6C3EF6C97F0F}" FileName="C:\Security_Testing_RR-37\Resources\Security_Testing_Input.xls" Filter="All Excel files|*.xls;*.xlsx|All files|*.*" />
+						<Parameter Name="Cell" DefVarType="0" VarType="8" ValueType="6" ValueValue="TS_10!G4" />
+					</Parameters>
+				</Data>
+			</Operation>
+			<Operation Type="{575D0372-CCEB-4D0F-AFE8-D2004F108913}">
+				<Data Description="Sets the text %p1 in the &apos;%n&apos; text editor." Action="SetText">
+					<Parameters LangId="{7D0FC31C-B0A7-4F4F-B5AF-1F16370169CB}">
+						<Parameter Name="Text" DefVarType="8" ParamType="{D44DB91E-FD74-4F67-BE3D-951A1238A9AD}" />
+					</Parameters>
+					<ObjectSyntax LangId="{7D0FC31C-B0A7-4F4F-B5AF-1F16370169CB}" Code="Aliases.browser.pageEdit.textboxAns3" />
+				</Data>
+			</Operation>
+			<Operation Type="{575D0372-CCEB-4D0F-AFE8-D2004F108913}">
+				<Data Description="Clicks the &apos;%n&apos; button." Action="ClickButton">
+					<ObjectSyntax LangId="{7D0FC31C-B0A7-4F4F-B5AF-1F16370169CB}" Code="Aliases.browser.pageEdit.button" />
+				</Data>
+			</Operation>
+			<Operation Type="{575D0372-CCEB-4D0F-AFE8-D2004F108913}">
+				<Data Description="Waits until the browser loads the page and is ready to accept user input." Action="Wait">
+					<Parameters LangId="{7D0FC31C-B0A7-4F4F-B5AF-1F16370169CB}">
+						<Parameter Name="WaitTime" DefVarType="3" DefValueType="1" DefValueValue="-1" VarType="3" ValueType="1" ValueValue="-1" />
+					</Parameters>
+					<ObjectSyntax LangId="{7D0FC31C-B0A7-4F4F-B5AF-1F16370169CB}" Code="Aliases.browser.pageRevRemit" />
+				</Data>
+			</Operation>
+			<Operation Type="{575D0372-CCEB-4D0F-AFE8-D2004F108913}">
+				<Data Description="Clicks the &apos;%n&apos; control." Action="Click">
+					<Parameters LangId="{7D0FC31C-B0A7-4F4F-B5AF-1F16370169CB}">
+						<Parameter Name="ClientX" DefVarType="3" DefValueType="1" DefValueValue="-1" VarType="3" ValueType="1" ValueValue="-1" />
+						<Parameter Name="ClientY" DefVarType="3" DefValueType="1" DefValueValue="-1" VarType="3" ValueType="1" ValueValue="-1" />
+						<Parameter Name="Shift" DefVarType="12" DefValueType="1" DefValueValue="0" VarType="3" ValueType="1" ValueValue="0">
+							<Values IsEnum="True">
+								<Value Type="1" Value="0" Text="skNoShift" />
+								<Value Type="1" Value="8192" Text="skShift" />
+								<Value Type="1" Value="32768" Text="skAlt" />
+								<Value Type="1" Value="16384" Text="skCtrl" />
+							</Values>
+						</Parameter>
+					</Parameters>
+					<ObjectSyntax LangId="{7D0FC31C-B0A7-4F4F-B5AF-1F16370169CB}" Code="Aliases.browser.pageEdit.imageLogout" />
+				</Data>
+			</Operation>
+			<Operation Type="{23822434-2251-41A7-8F29-F49A1E46114C}">
+				<Data Description="Retrieves the Excel cell value and saves it as Last Operation Result.">
+					<Parameters LangId="{7D0FC31C-B0A7-4F4F-B5AF-1F16370169CB}">
+						<Parameter Name="FileName" DefVarType="0" ParamType="{A6C17AFB-EA54-4E23-8160-6C3EF6C97F0F}" FileName="C:\Security_Testing_RR-37\Resources\Security_Testing_Input.xls" Filter="All Excel files|*.xls;*.xlsx|All files|*.*" />
+						<Parameter Name="Cell" DefVarType="0" VarType="8" ValueType="6" ValueValue="TS_10!B4" />
+					</Parameters>
+				</Data>
+			</Operation>
+			<Operation Type="{98EACF50-FA7B-4595-8EDC-4C0B21157A52}">
+				<Data Description="Launches the specified browser and opens the specified URL in it." BrowserName="chrome">
+					<Parameters LangId="{7D0FC31C-B0A7-4F4F-B5AF-1F16370169CB}">
+						<Parameter Name="URL" DefVarType="8" DefValueType="6" DefValueValue="" ParamType="{D44DB91E-FD74-4F67-BE3D-951A1238A9AD}" />
+						<Parameter Name="PageLoadWaitTime" DefVarType="3" DefValueType="1" DefValueValue="-1" VarType="3" ValueType="1" ValueValue="-1" />
+					</Parameters>
+				</Data>
+			</Operation>
+			<Operation Type="{575D0372-CCEB-4D0F-AFE8-D2004F108913}">
+				<Data Description="Maximizes the specified Window object." Action="Maximize">
+					<ObjectSyntax LangId="{7D0FC31C-B0A7-4F4F-B5AF-1F16370169CB}" Code="Aliases.browser.BrowserWindow" />
+				</Data>
+			</Operation>
+			<Operation Type="{575D0372-CCEB-4D0F-AFE8-D2004F108913}">
+				<Data Description="Clicks the &apos;%n&apos; control." Action="Click">
+					<Parameters LangId="{7D0FC31C-B0A7-4F4F-B5AF-1F16370169CB}">
+						<Parameter Name="ClientX" DefVarType="3" DefValueType="1" DefValueValue="-1" VarType="3" ValueType="1" ValueValue="-1" />
+						<Parameter Name="ClientY" DefVarType="3" DefValueType="1" DefValueValue="-1" VarType="3" ValueType="1" ValueValue="-1" />
+						<Parameter Name="Shift" DefVarType="12" DefValueType="1" DefValueValue="0" VarType="3" ValueType="1" ValueValue="0">
+							<Values IsEnum="True">
+								<Value Type="1" Value="0" Text="skNoShift" />
+								<Value Type="1" Value="8192" Text="skShift" />
+								<Value Type="1" Value="32768" Text="skAlt" />
+								<Value Type="1" Value="16384" Text="skCtrl" />
+							</Values>
+						</Parameter>
+					</Parameters>
+					<ObjectSyntax LangId="{7D0FC31C-B0A7-4F4F-B5AF-1F16370169CB}" Code="Aliases.browser.pageEdit.formNewUser.passwordboxUserPassword" />
+				</Data>
+			</Operation>
+			<Operation Type="{23822434-2251-41A7-8F29-F49A1E46114C}">
+				<Data Description="Retrieves the Excel cell value and saves it as Last Operation Result.">
+					<Parameters LangId="{7D0FC31C-B0A7-4F4F-B5AF-1F16370169CB}">
+						<Parameter Name="FileName" DefVarType="0" ParamType="{A6C17AFB-EA54-4E23-8160-6C3EF6C97F0F}" FileName="C:\Security_Testing_RR-37\Resources\Security_Testing_Input.xls" Filter="All Excel files|*.xls;*.xlsx|All files|*.*" />
+						<Parameter Name="Cell" DefVarType="0" VarType="8" ValueType="6" ValueValue="TS_10!C4" />
+					</Parameters>
+				</Data>
+			</Operation>
+			<Operation Type="{575D0372-CCEB-4D0F-AFE8-D2004F108913}">
+				<Data Description="Sets the text %p1 in the &apos;%n&apos; text editor." Action="SetText">
+					<Parameters LangId="{7D0FC31C-B0A7-4F4F-B5AF-1F16370169CB}">
+						<Parameter Name="Text" DefVarType="8" ParamType="{D44DB91E-FD74-4F67-BE3D-951A1238A9AD}" />
+					</Parameters>
+					<ObjectSyntax LangId="{7D0FC31C-B0A7-4F4F-B5AF-1F16370169CB}" Code="Aliases.browser.pageEdit.formNewUser.passwordboxUserPassword" />
+				</Data>
+			</Operation>
+			<Operation Type="{575D0372-CCEB-4D0F-AFE8-D2004F108913}">
+				<Data Description="Clicks the &apos;%n&apos; control." Action="Click">
+					<Parameters LangId="{7D0FC31C-B0A7-4F4F-B5AF-1F16370169CB}">
+						<Parameter Name="ClientX" DefVarType="3" DefValueType="1" DefValueValue="-1" VarType="3" ValueType="1" ValueValue="-1" />
+						<Parameter Name="ClientY" DefVarType="3" DefValueType="1" DefValueValue="-1" VarType="3" ValueType="1" ValueValue="-1" />
+						<Parameter Name="Shift" DefVarType="12" DefValueType="1" DefValueValue="0" VarType="3" ValueType="1" ValueValue="0">
+							<Values IsEnum="True">
+								<Value Type="1" Value="0" Text="skNoShift" />
+								<Value Type="1" Value="8192" Text="skShift" />
+								<Value Type="1" Value="32768" Text="skAlt" />
+								<Value Type="1" Value="16384" Text="skCtrl" />
+							</Values>
+						</Parameter>
+					</Parameters>
+					<ObjectSyntax LangId="{7D0FC31C-B0A7-4F4F-B5AF-1F16370169CB}" Code="Aliases.browser.pageEdit.formNewUser.passwordboxConfirmNewPassword" />
+				</Data>
+			</Operation>
+			<Operation Type="{23822434-2251-41A7-8F29-F49A1E46114C}">
+				<Data Description="Retrieves the Excel cell value and saves it as Last Operation Result.">
+					<Parameters LangId="{7D0FC31C-B0A7-4F4F-B5AF-1F16370169CB}">
+						<Parameter Name="FileName" DefVarType="0" ParamType="{A6C17AFB-EA54-4E23-8160-6C3EF6C97F0F}" FileName="C:\Security_Testing_RR-37\Resources\Security_Testing_Input.xls" Filter="All Excel files|*.xls;*.xlsx|All files|*.*" />
+						<Parameter Name="Cell" DefVarType="0" VarType="8" ValueType="6" ValueValue="TS_10!D4" />
+					</Parameters>
+				</Data>
+			</Operation>
+			<Operation Type="{575D0372-CCEB-4D0F-AFE8-D2004F108913}">
+				<Data Description="Sets the text %p1 in the &apos;%n&apos; text editor." Action="SetText">
+					<Parameters LangId="{7D0FC31C-B0A7-4F4F-B5AF-1F16370169CB}">
+						<Parameter Name="Text" DefVarType="8" ParamType="{D44DB91E-FD74-4F67-BE3D-951A1238A9AD}" />
+					</Parameters>
+					<ObjectSyntax LangId="{7D0FC31C-B0A7-4F4F-B5AF-1F16370169CB}" Code="Aliases.browser.pageEdit.formNewUser.passwordboxConfirmNewPassword" />
+				</Data>
+			</Operation>
+			<Operation Type="{575D0372-CCEB-4D0F-AFE8-D2004F108913}">
+				<Data Description="Clicks the &apos;%n&apos; button." Action="ClickButton">
+					<ObjectSyntax LangId="{7D0FC31C-B0A7-4F4F-B5AF-1F16370169CB}" Code="Aliases.browser.pageEdit.formNewUser.submitbuttonLogin" />
+				</Data>
+			</Operation>
+		</Children>
+	</TestData>
+	<Parameters Key="{A7D0B881-0BE6-4D89-B0B7-0469D3573912}" />
+</Root>

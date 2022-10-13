@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Root>
+	<Table Name="TS_37_1">
+		<Source ConnectionString="Provider=MSDASQL.1;Persist Security Info=False;User ID=fahad_ind;Data Source=RR database;Initial Catalog=revremit_qa_prd_RR13" Login="fahad_ind" Password="08044E94A28CF2C1C97AC20B4A2F568E66065E44708E6718408B3AA86634DC60F1A5661FB214" Object="Query" DataObjectContent="SELECT jobs.id,jobs.batch_id FROM jobs JOIN batches WHERE jobs.clip_and_stitch_status = &apos;COMPLETED&apos; AND batches.status = &apos;OUTPUT_GENERATED&apos; ORDER BY id DESC LIMIT 1" />
+		<Columns>
+			<Column CompareStyle="Default">id</Column>
+			<Column CompareStyle="Default">batch_id</Column>
+		</Columns>
+		<Rows>
+			<Row>
+				<Cell Type="Integer">900649</Cell>
+				<Cell Type="Integer">111441745</Cell>
+			</Row>
+		</Rows>
+	</Table>
+</Root>

@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Root>
+	<Table Name="TS_32">
+		<Source ConnectionString="Provider=MSDASQL.1;Persist Security Info=False;User ID=fahad_ind;Data Source=RR database;Initial Catalog=revremit_qa_prd_RR13" Login="fahad_ind" Password="08044E94A28CF2C1C97AC20B4A2F568E66065E44708E6718408B3AA86634DC60F1A5661FB214" Object="Query" DataObjectContent="SELECT id FROM jobs WHERE job_status = &apos;CHECK_INDEX&apos; AND check_index_status = &apos;IN_PROGRESS&apos; AND check_indexed_by != 1315 ORDER BY id DESC LIMIT 1&#13;&#10;" />
+		<Columns>
+			<Column CompareStyle="Default">id</Column>
+		</Columns>
+		<Rows>
+			<Row>
+				<Cell Type="Integer">899319</Cell>
+			</Row>
+		</Rows>
+	</Table>
+</Root>

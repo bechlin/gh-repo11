@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Root signature="{9576DAFD-0ADD-41A8-9897-C72F150AF6BB}" version="15.0">
+	<children>
+		<folder name="CommonComponents">
+			<folder name="Provider_login">
+				<child name="Provider_login" key="{D8760D39-3353-47CE-A9FB-E61F6703799F}" path="Provider_login.tcKDTest" />
+			</folder>
+			<folder name="QA_login">
+				<child name="QA_login" key="{456AB450-A9FB-4FD7-9885-A8948D3B46B9}" path="QA_login.tcKDTest" />
+			</folder>
+			<folder name="Admin_login">
+				<child name="Admin_login" key="{E979F492-8866-4A14-8724-4859A40585DB}" path="Admin_login.tcKDTest" />
+			</folder>
+			<child name="Close_Browser" key="{C2D487DA-4C57-4A95-A6CF-B7A72C39B10A}" path="Close_Browser.tcKDTest" />
+			<child name="Open_Revremit_login_page" key="{773D216A-37D4-4D16-9540-C49816E5B8C4}" path="Open_Revremit_login_page.tcKDTest" />
+		</folder>
+		<folder name="TS">
+			<child name="TS_02" key="{DD5698F5-C67E-486E-9F45-B9249E2EF161}" path="TS_02.tcKDTest" />
+			<child name="TS_03" key="{17986E7B-D279-4DE2-8DF6-CE24F0064B2C}" path="TS_03.tcKDTest" />
+			<child name="TS_04" key="{0539DD12-FC26-47B8-8750-999EAC937C71}" path="TS_04.tcKDTest" />
+			<child name="TS_05" key="{33014D6A-D76A-49C0-B317-42A7494DBD6E}" path="TS_05.tcKDTest" />
+			<child name="TS_07" key="{F30B790B-B489-40D4-BCD9-489932E5F0B9}" path="TS_07.tcKDTest" />
+			<child name="TS_14" key="{2AC07045-BBCB-477B-A3AE-291F2AB75F46}" path="TS_14.tcKDTest" />
+			<child name="TS_17" key="{5CF5FF26-288D-4EED-8311-CA27C6DC96E7}" path="TS_17.tcKDTest" />
+			<child name="TS_18" key="{FC206A84-1871-4D97-A219-3D716F0872BE}" path="TS_18.tcKDTest" />
+			<child name="TS_21" key="{6F38F107-74DA-467A-9CD8-AA5AB6E21161}" path="TS_21.tcKDTest" />
+			<child name="TS_22" key="{A5897473-0353-4248-957D-4F1CFB3D3D5A}" path="TS_22.tcKDTest" />
+			<child name="TS_27" key="{9FC47B4C-19BD-43B8-AD1D-8867E2EE707A}" path="TS_27.tcKDTest" />
+			<child name="TS_30" key="{0211573A-0E5A-47F4-B22D-4F08E212B093}" path="TS_30.tcKDTest" />
+			<child name="TS_31" key="{094C1B4F-9B5F-4BFF-8E00-7D74FAB37EA8}" path="TS_31.tcKDTest" />
+			<child name="TS_32" key="{955F5BA8-2AF1-4C5D-9B4D-3B3BA2D16210}" path="TS_32.tcKDTest" />
+			<child name="TS_34" key="{4085A4BF-DCA2-4741-B3EF-D783ECFFCE66}" path="TS_34.tcKDTest" />
+			<child name="TS_01" key="{4FDCC39D-0399-412F-BCBE-5386C6A2A005}" path="TS_01.tcKDTest" />
+			<child name="TS_06" key="{4A006EF8-397A-4A6D-93EA-D2146BAE366C}" path="TS_06.tcKDTest" />
+			<child name="TS_08" key="{B52F5D8F-DD38-4458-A9D6-906C69365F70}" path="TS_08.tcKDTest" />
+			<child name="TS_09" key="{DD02DAC0-881E-4AB5-BCC7-D1CDC811FE9B}" path="TS_09.tcKDTest" />
+			<child name="TS_10" key="{C41D2BC1-D224-4A18-89CE-B63B5A08DDC2}" path="TS_10.tcKDTest" />
+			<child name="TS_11" key="{E824B643-2395-42C1-A20E-29C11DE24569}" path="TS_11.tcKDTest" />
+			<child name="TS_12" key="{04A1EFC1-3BB9-4EF4-B059-4382D095DE3B}" path="TS_12.tcKDTest" />
+			<child name="TS_13" key="{E2EF42DC-AEF3-4DBB-9EF4-AD220F98B1FA}" path="TS_13.tcKDTest" />
+			<child name="TS_19" key="{E4C00F25-32CC-487C-BE18-41F01C441D00}" path="TS_19.tcKDTest" />
+			<child name="TS_20" key="{5214E015-A47B-41C9-AF3F-3B4A22B63AB7}" path="TS_20.tcKDTest" />
+			<child name="TS_33" key="{E03AC1C7-8252-470E-862B-84B1F9B3DF53}" path="TS_33.tcKDTest" />
+			<child name="TS_37" key="{C1E5DED8-1FFB-49A3-8D02-8FAAEF827D4B}" path="TS_37.tcKDTest" />
+			<child name="TS_23" key="{D3EF6BD2-01F3-49D9-872C-4E6A92D81F7A}" path="TS_23.tcKDTest" />
+			<child name="TS_36" key="{8CF01CDD-0E28-4F29-B1E9-809E8096F39E}" path="TS_36.tcKDTest" />
+		</folder>
+	</children>
+</Root>

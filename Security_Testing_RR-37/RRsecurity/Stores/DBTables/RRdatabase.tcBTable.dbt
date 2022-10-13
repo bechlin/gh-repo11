@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Root>
+	<Table Name="RRdatabase">
+		<Source ConnectionString="Provider=MSDASQL.1;Persist Security Info=False;User ID=fahad_ind;Data Source=RR database;Initial Catalog=revremit_qa_prd_RR13" Login="fahad_ind" Password="08044E94A28CF2C1C97AC20B4A2F568E66065E44708E6718408B3AA86634DC60F1A5661FB214" Object="Query" DataObjectContent="SELECT batchid,DATE FROM batches WHERE facility_id = 2294 ORDER BY id DESC LIMIT 1" />
+		<Columns>
+			<Column>batchid</Column>
+			<Column>DATE</Column>
+		</Columns>
+		<Rows>
+			<Row>
+				<Cell Type="String">rockdalenlbxxvv</Cell>
+				<Cell Type="Date">2022-09-19T00:00:00.000Z</Cell>
+			</Row>
+		</Rows>
+	</Table>
+</Root>

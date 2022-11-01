@@ -1,9 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<Root signature="{42D2222C-ACA2-405F-8E67-05D5C42EB839}" version="2">
-	<data key="{FA00F241-952E-4414-996D-E52643EC305C}">
-		<item typeId="{87B03792-E854-4F5D-9F33-165F1F874209}" version="2" lineNo="5" kind="0" dateTime="44810.3265393519" objectName="Aliases.browser.pageRevRemit2.formNewUser.textboxUserid" objectLeft="800" objectTop="373" objectRight="968" objectBottom="394" clickPointX="-1" clickPointY="-1" imageFileName="tcvi13175828113922.png" storageFileName="" needUpdate="False" rectColor="255" />
-		<item typeId="{87B03792-E854-4F5D-9F33-165F1F874209}" version="2" lineNo="6" kind="0" dateTime="44810.3266087963" objectName="Aliases.browser.pageRevRemit2.formNewUser.textboxUserid" objectLeft="800" objectTop="373" objectRight="968" objectBottom="394" clickPointX="-1" clickPointY="-1" imageFileName="tcvi131758281139221.png" storageFileName="" needUpdate="False" rectColor="255" />
-		<item typeId="{87B03792-E854-4F5D-9F33-165F1F874209}" version="2" lineNo="8" kind="0" dateTime="44810.3266203704" objectName="Aliases.browser.pageRevRemit2.formNewUser.passwordboxUserPassword" objectLeft="800" objectTop="418" objectRight="968" objectBottom="439" clickPointX="-1" clickPointY="-1" imageFileName="tcvi13183250113923.png" storageFileName="" needUpdate="False" rectColor="255" />
-		<item typeId="{87B03792-E854-4F5D-9F33-165F1F874209}" version="2" lineNo="9" kind="0" dateTime="44810.3266435185" objectName="Aliases.browser.pageRevRemit2.formNewUser.submitbuttonLogin" objectLeft="793" objectTop="445" objectRight="836" objectBottom="463" clickPointX="822" clickPointY="455" imageFileName="tcvi13185750113924.png" storageFileName="" needUpdate="False" rectColor="255" />
-	</data>
-</Root>

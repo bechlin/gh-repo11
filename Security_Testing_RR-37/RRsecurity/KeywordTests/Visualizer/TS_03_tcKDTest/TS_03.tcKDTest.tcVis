@@ -1,8 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<Root signature="{42D2222C-ACA2-405F-8E67-05D5C42EB839}" version="2">
-	<data key="{17986E7B-D279-4DE2-8DF6-CE24F0064B2C}">
-		<item typeId="{87B03792-E854-4F5D-9F33-165F1F874209}" version="2" lineNo="4" kind="0" dateTime="44778.4878125" objectName="Aliases.browser.pageEdit.imageLogout" objectLeft="-1" objectTop="-1" objectRight="-1" objectBottom="-1" clickPointX="-1" clickPointY="-1" imageFileName="tcvi200533109215561.png" storageFileName="" needUpdate="False" rectColor="255" />
-		<item typeId="{87B03792-E854-4F5D-9F33-165F1F874209}" version="2" lineNo="7" kind="0" dateTime="44778.4878703704" objectName="Aliases.browser.BrowserWindow" objectLeft="-8" objectTop="-8" objectRight="1374" objectBottom="736" clickPointX="19" clickPointY="56" imageFileName="tcvi200538609215562.png" storageFileName="" needUpdate="False" rectColor="255" />
-		<item typeId="{87B03792-E854-4F5D-9F33-165F1F874209}" version="2" lineNo="8" kind="0" dateTime="44778.4879166667" objectName="Aliases.browser.pageRevRemit2.imageHome" objectLeft="-1" objectTop="-1" objectRight="-1" objectBottom="-1" clickPointX="-1" clickPointY="-1" imageFileName="tcvi200542812215563.png" storageFileName="" needUpdate="False" rectColor="255" />
-	</data>
-</Root>
